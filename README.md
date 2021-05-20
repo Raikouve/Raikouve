@@ -6,7 +6,8 @@
 ## Estudando e me desenvolvendo todos os dias como Desenvolvedor Web!
 
 - 👦 Um apaixonado por tecnologia desde cedo
-- 🧑‍🎓 Na faculdade tive o primeiro contato com a linguegem C++
+- 🖥️ Na adolescencia desenvolvi algumas páginas HTML
+- 🧑‍🎓 Na faculdade tive o primeiro contato com a linguagem C++
 - ✏️ Em 2021 comecei meus estudos na [Trybe][trybe]!
 - 🙋‍♂️ Ansioso para contribuir em muitos projetos!
 
