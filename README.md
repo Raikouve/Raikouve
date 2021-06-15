@@ -31,8 +31,8 @@
 
   <summary>✔️ GitHub Stats</summary>
 
-  <img align="left" width="200px" alt="Raikouve GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Raikouve&show_icons=true&hide_border=true&theme=algolia"/>
-   <img align="right" width="200px" alt="Raikouve GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raikouve&layout=compact&theme=algolia"/>
+  <img align="left" width="400px" alt="Raikouve GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Raikouve&show_icons=true&hide_border=true&theme=algolia"/>
+   <img align="right" width="400px" alt="Raikouve GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raikouve&layout=compact&theme=algolia"/>
 
 [linkedin]: https://www.linkedin.com/in/tonigoncalves/
 [instagram]: https://www.instagram.com/tonissx
