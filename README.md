@@ -34,7 +34,7 @@
   <br />
 
   <img align="left" width="500px" alt="Raikouve GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Raikouve&show_icons=true&hide_border=true&theme=algolia"/>
-   <img align="left" width="300px" heigth="500px" alt="Raikouve GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raikouve&show_icons=true&hide_border=true&layout=compact&theme=algolia"/>
+   <img align="left" width="300px" heigth="400px" alt="Raikouve GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raikouve&show_icons=true&hide_border=true&layout=compact&theme=algolia"/>
 
 [linkedin]: https://www.linkedin.com/in/tonigoncalves/
 [instagram]: https://www.instagram.com/tonissx
