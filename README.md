@@ -17,7 +17,7 @@
 
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
 <img align="left" alt="Bootstrap" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" />
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
