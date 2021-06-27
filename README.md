@@ -5,8 +5,6 @@
 
 ## Estudando e me desenvolvendo todos os dias como Desenvolvedor Web!
 
-<img align="right" alt="Coding image" width="200px" src="https://i.pinimg.com/originals/78/5a/1b/785a1b9c359640da6bc9cfe3670b42ba.png" />
-<br />
 - 👦 Um apaixonado por tecnologia desde cedo
 - 🖥️ Na adolescencia desenvolvi algumas páginas HTML
 - 🧑‍🎓 Na faculdade tive o primeiro contato com a linguagem C++
