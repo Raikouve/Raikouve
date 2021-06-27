@@ -11,6 +11,8 @@
 - ✏️ Em 2021 comecei meus estudos na [Trybe][trybe]!
 - 🙋‍♂️ Ansioso para contribuir em muitos projetos!
 
+<br />
+
 ### Linguagens e ferramentas:
 
 <img align="left" alt="Visual Studio Code" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
