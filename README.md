@@ -23,6 +23,7 @@
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" />
 <img align="left" alt="Terminal" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" />
+<img align="right" alt="Ilustração programando" width="200px" src="https://i.pinimg.com/originals/78/5a/1b/785a1b9c359640da6bc9cfe3670b42ba.png" />
 
 <br />
 <br />
