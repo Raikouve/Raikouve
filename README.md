@@ -23,6 +23,7 @@
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" />
 <img align="left" alt="Terminal" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" />
+<img align="left" alt="Jest" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />
 
 <br />
 <br />
