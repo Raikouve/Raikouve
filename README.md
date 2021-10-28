@@ -20,6 +20,7 @@
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
 <img align="left" alt="React" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
+<img align="left" alt="Redux" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" />
 <img align="left" alt="Jest" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />
 <img align="left" alt="Bootstrap" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" />
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
