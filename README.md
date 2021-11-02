@@ -26,6 +26,7 @@
 <img align="left" alt="Redux" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" />
 <img align="left" alt="Jest" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />
 <img align="left" alt="Bootstrap" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" />
+<img align="left" alt="Bootstrap" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" />
 
 <br />
 <br />
