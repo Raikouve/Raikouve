@@ -1,7 +1,6 @@
 ### Olá, me chamo Antônio e você chegou ao meu repositório no GitHub! 🧑‍💻
 
 [![linkedin](https://i.imgur.com/m3nrJJi.png)](https://www.linkedin.com/in/tonigoncalves/)
-[![instagram](https://i.imgur.com/FO5xLoB.png)](https://www.instagram.com/tonissx)
 
 ## Estudando e me desenvolvendo todos os dias como Desenvolvedor Web!
 
