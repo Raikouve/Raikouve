@@ -30,6 +30,8 @@
 <br />
 <br />
 
+[![@raikov's Holopin board](https://holopin.io/api/user/board?user=raikov)](https://holopin.io/@raikov)
+
 ---
 
   #### ✔️ GitHub Stats
