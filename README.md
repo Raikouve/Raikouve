@@ -7,7 +7,7 @@
 - 👦 Um apaixonado por tecnologia desde cedo
 - 🖥️ Na adolescencia desenvolvi algumas páginas HTML
 - 🧑‍🎓 Na faculdade tive o primeiro contato com a linguagem C++
-- ✏️ Em 2021 comecei meus estudos na [Trybe][trybe]!
+- ✏️ Em 2021 comecei meus estudos em JavaScript!
 - 🙋‍♂️ Ansioso para contribuir em muitos projetos!
 
 <br />
